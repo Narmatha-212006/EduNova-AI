@@ -1,0 +1,3 @@
+Polymorphism allows objects of different classes to respond to the same message design. It is implemented dynamically via virtual tables (vtables) and late binding where the executable determines subclasses overrides at runtime rather than compilation.
+
+Abstraction hides internal implementation complexity while revealing only high level interfaces. Encapsulation aggregates attributes and methods into modules, restricting external direct accesses via getters and setters. For example, a Car class encapsulates the engine block details while exposing steer() and drive() as abstraction interfaces.
