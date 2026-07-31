@@ -33,6 +33,7 @@ EduNova AI combines **Artificial Intelligence, Natural Language Processing, and 
 * Role-based access control.
 * Separate access based on user roles.
 
+
 ### 📝 Assignment Management
 
 * Create and manage assignments.
