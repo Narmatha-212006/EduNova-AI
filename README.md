@@ -1,7 +1,6 @@
 # 🎓 EduNova AI – Intelligent Assignment Evaluation System
 
 > An AI-powered web application that automates assignment evaluation, provides intelligent feedback, and helps educators manage student submissions efficiently.
-> 
 
 ## 📌 Overview
 
