@@ -6,7 +6,7 @@
 
 **EduNova AI** is an intelligent assignment evaluation platform designed to reduce the manual effort involved in grading student assignments.
 
-The system allows teachers or administrators to create assignments, students to submit their work, and the AI evaluation engine to analyze submissions based on the assignment requirements. The platform generates evaluation results, scores, feedback, and performance insights
+The system allows teachers or administrators to create assignments, students to submit their work, and the AI evaluation engine to analyze submissions based on the assignment requirements. The platform generates evaluation results, scores, feedback, and performance insights.
 
 EduNova AI combines **Artificial Intelligence, Natural Language Processing, and web technologies** to provide a centralized solution for digital assignment management and automated evaluation.
 
