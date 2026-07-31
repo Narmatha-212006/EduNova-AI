@@ -12,6 +12,7 @@ EduNova AI combines **Artificial Intelligence, Natural Language Processing, and 
 
 ---
 
+
 ## 🎯 Objectives
 
 * Automate the assignment evaluation process.
