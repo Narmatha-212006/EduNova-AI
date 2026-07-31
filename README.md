@@ -10,7 +10,7 @@ The system allows teachers or administrators to create assignments, students to 
 
 EduNova AI combines **Artificial Intelligence, Natural Language Processing, and web technologies** to provide a centralized solution for digital assignment management and automated evaluation.
 
---
+---
 
 ## 🎯 Objectives
 
