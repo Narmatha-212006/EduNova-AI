@@ -8,7 +8,7 @@
 
 The system allows teachers or administrators to create assignments, students to submit their work, and the AI evaluation engine to analyze submissions based on the assignment requirements. The platform generates evaluation results, scores, feedback, and performance insights.
 
-EduNova AI combines **Artificial Intelligence, Natural Language Processing, and web technologies** to provide a centralized solution for digital assignment management and automated evaluation
+EduNova AI combines **Artificial Intelligence, Natural Language Processing, and web technologies** to provide a centralized solution for digital assignment management and automated evaluation.
 
 ---
 
